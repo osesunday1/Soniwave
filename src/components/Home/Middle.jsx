@@ -119,7 +119,8 @@ const Info = styled.div`
     margin-left: 0;
     margin: 0 auto;
     justify-content: center;
-  align-items: center;
+    align-items: center;
+    margin-bottom: 20px;
   }
 `;
 
