@@ -14,7 +14,6 @@ const Section = styled.section`
   justify-content: center;
   align-items: center;
   padding: 0px 100px;
-  background: var(--purple1);
 
   h2 {
     color: var(--purple0);
