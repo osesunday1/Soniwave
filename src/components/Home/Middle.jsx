@@ -137,7 +137,7 @@ const Info2 = styled.div`
     margin-left: 0;
     margin: 0 auto;
     transform: none; 
-    margin-top: 30px;
+    margin-top: 0px;
     justify-content: center;
     align-items: center;
   }
